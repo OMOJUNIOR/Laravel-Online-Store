@@ -1,6 +1,14 @@
 # Laravel-Online-Store
 Basic project for people interested in learning about laravel and it's ecosystem. This online store was built using Alpine js,livewire,tailwind css,some bootstrap and  blade templating engine for the frontend ,PHP and Meilli search engine for the backend.
 
+![App Screenshot](https://raw.githubusercontent.com/OMOJUNIOR/Laravel-Online-Store/screenshots/Monosnap 2022-11-08 13-36-24.png)
+
+
+
+
+
+
+
 # To get the project running after installation
 
 # npm run dev
