@@ -1,0 +1,29 @@
+.bg-secondary {
+    background-color: #000000 !important;
+    }
+    .copyright { background-color: #000000;
+    }
+    .bg-primary {
+    background-color: #3819bf !important;
+    }
+    nav{
+    font-weight: 700;
+    }
+    .img-card{ height: 18vw; object-fit: cover;
+    }
+
+    .panel-title {
+        display: inline;
+        font-weight: bold;
+        }
+        .display-table {
+            display: table;
+        }
+        .display-tr {
+            display: table-row;
+        }
+        .display-td {
+            display: table-cell;
+            vertical-align: middle;
+            width: 61%;
+        }
